@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "esbuild-register": "^3.6.0",
-    "hono": "^4.10.7",
+    "hono": "^4.11.10",
     "ioredis": "^5.8.2",
     "js-yaml": "^4.1.1"
   },

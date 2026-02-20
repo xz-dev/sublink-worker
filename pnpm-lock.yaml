@@ -12,8 +12,8 @@ importers:
         specifier: ^3.6.0
         version: 3.6.0(esbuild@0.27.0)
       hono:
-        specifier: ^4.10.7
-        version: 4.10.7
+        specifier: ^4.11.10
+        version: 4.11.10
       ioredis:
         specifier: ^5.8.2
         version: 5.8.2
@@ -953,8 +953,8 @@ packages:
   glob-to-regexp@0.4.1:
     resolution: {integrity: sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==}
 
-  hono@4.10.7:
-    resolution: {integrity: sha512-icXIITfw/07Q88nLSkB9aiUrd8rYzSweK681Kjo/TSggaGbOX4RRyxxm71v+3PC8C/j+4rlxGeoTRxQDkaJkUw==}
+  hono@4.11.10:
+    resolution: {integrity: sha512-kyWP5PAiMooEvGrA9jcD3IXF7ATu8+o7B3KCbPXid5se52NPqnOpM/r9qeW2heMnOekF4kqR1fXJqCYeCLKrZg==}
     engines: {node: '>=16.9.0'}
 
   ioredis@5.8.2:
@@ -1887,7 +1887,7 @@ snapshots:
 
   glob-to-regexp@0.4.1: {}
 
-  hono@4.10.7: {}
+  hono@4.11.10: {}
 
   ioredis@5.8.2:
     dependencies:
